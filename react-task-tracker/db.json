@@ -4,13 +4,13 @@
       "id": 1,
       "text": "Doctors Appointment",
       "day": "Feb 5th AT 2:30pm",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 2,
       "text": "Meeting at school",
       "day": "Feb 6th AT 11:30pm",
-      "reminder": true
+      "reminder": false
     },
     {
       "text": "Take Test",
