@@ -105,6 +105,8 @@ const toggleReminder = async (id) =>{
      {tasks.length > 0 ? (<Task tasks={tasks} 
      onDelete={deleteTask} onToggle={toggleReminder}
      /> ) :( 'No Tasks To Show')}
+     
+     <Route path='/about' component={About} />
      <Footer />
     </div>
     </Router>
