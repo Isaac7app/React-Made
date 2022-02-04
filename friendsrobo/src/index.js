@@ -6,8 +6,11 @@ import reportWebVitals from './reportWebVitals';
 import 'tachyons'
 
 ReactDOM.render(
-   <Card />,
-  
+  <div>
+   <Card />
+   <Card />
+   <Card />
+   </div>,
   document.getElementById('root')
 );
 
